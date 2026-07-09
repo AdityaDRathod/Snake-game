@@ -12,8 +12,6 @@ OG Snake Game in C++ in which the player controls the snake which is moving acro
 The following are the systems requirements:
 - Windows 10 Operating System
 - cpp compiler
-- 13th Gen Intel(R) Core(TM) i5-13420H   2.10 GHz or Higher
-- 4.0 GB RAM
 
 ## Installation
 1) Clone this repository.
